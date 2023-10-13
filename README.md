@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning SQL.
 - 💞️ I’m looking to collaborate on DA, DS and ML projects.
 - 📫 You can reach me on:
-[![Telegram](https://rb.gy/4pzwk)](https://t.me/n_shilyaev)
-[![LinkedIn](https://rb.gy/84sb6)](https://www.linkedin.com/in/nikita-shilyaev/)
+[![Telegram](https://t.me/n_shilyaev)
+[![LinkedIn](https://www.linkedin.com/in/nikita-shilyaev/)
 
 
 <!---
