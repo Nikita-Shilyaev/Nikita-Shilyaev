@@ -3,4 +3,4 @@
 - 🌱 I’m currently studying Machine Learning.
 - 💞️ I’m looking to collaborate on DA, DS and ML projects.
 - 📫 You can reach me on: [Telegram](https://t.me/n_shilyaev), [LinkedIn](https://www.linkedin.com/in/nikita-shilyaev/)
-- My [Kaggle account](https://www.kaggle.com/nshilyaev)
+- 👀 My [Kaggle account](https://www.kaggle.com/nshilyaev)
